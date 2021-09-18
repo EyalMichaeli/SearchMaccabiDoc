@@ -1,7 +1,6 @@
 """
-2. create a req.txt -
-3. add packages -
-4. write code for main.py -
+Written by: Eyal Michaeli
+Email: eyalmichaeli98@gmail.com
 """
 
 
@@ -23,8 +22,8 @@ mouse_button = pynput.mouse.Button
 usr=input('Enter Email Id:')  
 pwd=input('Enter Password:')  
 '''
-usr = '2018739'
-pwd = 'or528491!'
+usr = ''
+pwd = ''
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://teva.net.hilan.co.il/login')
