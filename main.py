@@ -10,6 +10,17 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 import pynput
+import json
+
+
+# read config json
+with open("config.json") as f:
+    config = json.load(f)
+
+user_name = config["user_name"]
+password = config["password"]
+
+
 
 keyboard_control = pynput.keyboard.Controller()
 keyboard_key = pynput.keyboard.Key
