@@ -1,3 +1,11 @@
+#I added:
+.DS_Store
+# because it has password in it
+# config.json
+.idea/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
