@@ -1,7 +1,7 @@
 #I added:
 .DS_Store
 # because it has password in it
-# config.json
+config.json
 .idea/
 
 
