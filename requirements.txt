@@ -1,3 +1,6 @@
 selenium
 webdriver_manager
 pynput
+telegram-send
+clipboard
+schedule
