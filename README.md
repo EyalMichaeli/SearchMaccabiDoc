@@ -12,4 +12,5 @@ An API to search for, and set a reminder (once the doctor has an earlier appoint
 ## What you need to do: 
 1. Open config.json
 2. Insert your Maccabi online ID & password 
-3. Run the program
+3. Insert your doc last, first name and his city.
+4. Run the program
