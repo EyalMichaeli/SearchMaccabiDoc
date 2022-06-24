@@ -6,8 +6,8 @@ An API to search for, and set a reminder (once the doctor has an earlier appoint
 
 ## Environment 
 * Currently, tested only on Mac - for self use only
-* Need to have python installed
-* And, install requirements, as usual, by: pip install -r requirements.txt
+* python 3.8
+* Install requirements by: pip install -r requirements.txt
 
 ## What you need to do: 
 1. Open config.json
